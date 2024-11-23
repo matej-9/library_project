@@ -1,0 +1,25 @@
+Představte si, že máte za úkol vtvořit inventární systém pro malou knihovnu.
+Knihovna půjčuje tištěné knihy, audioknihy a e-knihy.
+
+Jediný reálný požadavek je, abychom byli schopni do systému přidávat nové knihy pomocí
+.csv souboru (data.csv), který obsahuje informace o knihách. Zbytek řešení a jeho komplexita
+je v zásadě úplně na vás, zkuste se vžít do role knihovníka a občasného programátora.
+
+Připravte si prosím případně i krátké demíčko, které nám ukáže, jak váš systém funguje.
+
+
+
+Pár tipů pro začátek, které můžete, ale nemusíte brát v potaz:
+=============================================================
+- základem systému by asi měla být nějaká třída Library / LibraryInventory, která obsahuje
+informace (?seznam?) o všech knihách, které knihkupectví nabízí
+- sortiment by mohl být reprezentován hierrchicky, s výhodou muzete vyuzit abstraktni tridu,
+jako zatreseni pro jednotlive typy knih (tištěné knihy, audioknihy, e-knihy)
+- knihy by mohly vypisovat na pozadani kompletni informace o sobe
+- v knihovne by se mohlo dat vyhledavat podle ruznych kriterii (napr. autor, nazev, zanr, mladsi/starsi nez)
+- krome nacitani dat z csv souboru by bylo fajn, kdyby bylo mozne data serializovat
+- nejaka funkcionalita pro zápůjčku knihy? - snížení počtu dostupných kusů, seznam zapůjčených knih
+nebo třída reprezentující zápujčku?
+
+=> co se vám bude chtít, co stihnete, co vám bude připadat užitečné, aby se se systémem dobře pracovalo.
+

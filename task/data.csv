@@ -1,0 +1,43 @@
+title,author,type,publication_year,genre,isbn,copies_available
+"To Kill a Mockingbird","Harper Lee","Hardcover",1960,"Classic Fiction","9780061120084",4
+"To Kill a Mockingbird","Harper Lee","Audiobook",2006,"Classic Fiction","9780061808128",10
+"1984","George Orwell","Paperback",1949,"Dystopian Fiction","9780451524935",7
+"1984","George Orwell","eBook",2013,"Dystopian Fiction","9780547249643",15
+"Pride and Prejudice","Jane Austen","Hardcover",1813,"Classic Romance","9780141439518",3
+"Pride and Prejudice","Jane Austen","eBook",2012,"Classic Romance","9781619491063",20
+"The Great Gatsby","F. Scott Fitzgerald","Paperback",1925,"Classic Fiction","9780743273565",6
+"The Great Gatsby","F. Scott Fitzgerald","Audiobook",2005,"Classic Fiction","9780743598247",5
+"The Catcher in the Rye","J.D. Salinger","Paperback",1951,"Classic Fiction","9780316769488",2
+"Moby-Dick","Herman Melville","Hardcover",1851,"Adventure Fiction","9780142437247",5
+"Moby-Dick","Herman Melville","eBook",2009,"Adventure Fiction","9781593080181",8
+"The Hobbit","J.R.R. Tolkien","Paperback",1937,"Fantasy","9780547928227",8
+"The Hobbit","J.R.R. Tolkien","Audiobook",2001,"Fantasy","9780618346240",3
+"Harry Potter and the Sorcerer's Stone","J.K. Rowling","Hardcover",1997,"Fantasy","9780590353427",12
+"Harry Potter and the Sorcerer's Stone","J.K. Rowling","eBook",2015,"Fantasy","9781781102459",30
+"Brave New World","Aldous Huxley","Paperback",1932,"Dystopian Fiction","9780060850524",4
+"Brave New World","Aldous Huxley","Audiobook",2007,"Dystopian Fiction","9780060850524",7
+"War and Peace","Leo Tolstoy","Hardcover",1869,"Historical Fiction","9780199232765",1
+"War and Peace","Leo Tolstoy","eBook",2009,"Historical Fiction","9780553213835",12
+"Crime and Punishment","Fyodor Dostoevsky","Paperback",1866,"Classic Fiction","9780143058144",6
+"The Odyssey","Homer","Hardcover",-700,"Epic Poetry","9780140268867",3
+"The Odyssey","Homer","Audiobook",2007,"Epic Poetry","9780143059264",5
+"Jane Eyre","Charlotte Brontë","Paperback",1847,"Classic Romance","9780141441146",4
+"Jane Eyre","Charlotte Brontë","eBook",2015,"Classic Romance","9781509827794",9
+"Frankenstein","Mary Shelley","Paperback",1818,"Science Fiction","9780141439471",5
+"Frankenstein","Mary Shelley","Audiobook",2005,"Science Fiction","9780142429172",2
+"The Lord of the Rings","J.R.R. Tolkien","Hardcover",1954,"Fantasy","9780618640157",2
+"The Lord of the Rings","J.R.R. Tolkien","Audiobook",1990,"Fantasy","9780261102316",4
+"Dracula","Bram Stoker","Paperback",1897,"Horror","9780486411095",3
+"Dracula","Bram Stoker","eBook",2013,"Horror","9781627936668",12
+"The Shining","Stephen King","Hardcover",1977,"Horror","9780385121675",4
+"The Shining","Stephen King","eBook",2012,"Horror","9780385121675",8
+"A Brief History of Time","Stephen Hawking","Paperback",1988,"Science","9780553380163",5
+"A Brief History of Time","Stephen Hawking","Audiobook",2018,"Science","9781982109417",10
+"Sapiens: A Brief History of Humankind","Yuval Noah Harari","Paperback",2011,"Anthropology","9780062316097",6
+"Sapiens: A Brief History of Humankind","Yuval Noah Harari","eBook",2014,"Anthropology","9780062316097",18
+"The Road","Cormac McCarthy","Paperback",2006,"Post-Apocalyptic","9780307387899",3
+"The Road","Cormac McCarthy","Audiobook",2007,"Post-Apocalyptic","9780739343245",5
+"Becoming","Michelle Obama","Hardcover",2018,"Memoir","9781524763138",12
+"Becoming","Michelle Obama","eBook",2018,"Memoir","9781524763138",25
+"The Silent Patient","Alex Michaelides","Paperback",2019,"Thriller","9781250301697",8
+"The Silent Patient","Alex Michaelides","Audiobook",2019,"Thriller","9781250317544",4
